@@ -4,7 +4,7 @@
 
 About me:
 
-- 🔭 I’m currently working on allFind
+- 🔭 I’m currently working on Name My Pet Generator
 - 🌱 I’m currently learning JAVA
 - 🤔 I’m looking for help with JAVA
 - 💬 Ask me about Bootstrap
