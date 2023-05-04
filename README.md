@@ -4,7 +4,7 @@
 
 About me:
 
-- 🔭 I’m currently working on Name My Pet Generator
+- 🔭 I’m currently thinking in my new project
 - 🌱 I’m currently learning JAVA
 - 🤔 I’m looking for help with JAVA
 - 💬 Ask me about Bootstrap
