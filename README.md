@@ -4,7 +4,7 @@
 
 About me:
 
-- 🔭 I’m currently thinking in my new project
+- 🔭 I’m currently working in TheGymVerse
 - 🌱 I’m currently learning Typescript, Java
 - 🤔 If you have an idea, let me know 🙄
 - 💬 Ask me about Bootstrap
