@@ -4,8 +4,8 @@
 
 About me:
 
-- 🔭 I’m currently working in TheGymVerse
-- 🌱 I’m currently learning Typescript, Java
+- 🔭 I’m currently working in a Personal web for a photographer
+- 🌱 I’m currently learning Astro, Tailwind CSS
 - 🤔 If you have an idea, let me know 🙄
 - 💬 Ask me about Bootstrap
 - 📫 How to reach me: [@whoskelos](https://twitter.com/whoskelos) 🕊
