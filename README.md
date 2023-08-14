@@ -4,10 +4,10 @@
 
 About me:
 
-- 🔭 I’m currently working in a Personal web for a photographer
+- 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning Astro, Tailwind CSS
 - 🤔 If you have an idea, let me know 🙄
-- 💬 Ask me about Bootstrap
+- 💬 Ask me about Javascript
 - 📫 How to reach me: [@whoskelos](https://twitter.com/whoskelos) 🕊
 - 😄 Pronouns: kelos
 - 🖥️ https://whoskelos.es
