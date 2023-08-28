@@ -4,7 +4,7 @@
 
 About me:
 
-- 🔭 I’m currently working on my Portfolio
+- 🔭 I’m currently working on my new Portfolio and InventoryManager
 - 🌱 I’m currently learning Astro, Tailwind CSS
 - 🤔 If you have an idea, let me know 🙄
 - 💬 Ask me about Javascript
