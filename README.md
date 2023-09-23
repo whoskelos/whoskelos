@@ -10,4 +10,4 @@ About me:
 - 💬 Ask me about Javascript
 - 📫 How to reach me: [@whoskelos](https://twitter.com/whoskelos) 🕊
 - 😄 Pronouns: kelos
-- 🖥️ https://whoskelos.es
+- 🖥️ https://kelvin.guerrero.dev
