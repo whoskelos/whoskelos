@@ -5,9 +5,9 @@
 About me:
 
 - 🔭 I’m currently working on my new Portfolio and InventoryManager
-- 🌱 I’m currently learning Astro, Tailwind CSS
+- 🌱 I’m currently learning Astro, Tailwind CSS and React.js
 - 🤔 If you have an idea, let me know 🙄
 - 💬 Ask me about Javascript
 - 📫 How to reach me: [@whoskelos](https://twitter.com/whoskelos) 🕊
 - 😄 Pronouns: kelos
-- 🖥️ https://kelvin.guerrero.dev
+- 🖥️ https://kelvinguerrero.dev
