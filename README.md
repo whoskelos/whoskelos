@@ -4,7 +4,7 @@
 
 About me:
 
-- 🔭 I’m currently working on HubLink 
+- 🔭 I’m currently working on Amigo Invisible App 
 - 🌱 I’m currently learning Astro, Tailwind CSS and React.js
 - 🤔 If you have an idea, let me know 🙄
 - 💬 Ask me about Javascript
