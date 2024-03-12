@@ -4,7 +4,7 @@
 
 About me:
 
-- 🔭 I’m currently working on Amigo Invisible App 
+- 🔭 I’m currently working on TheGymVerse v.2
 - 🌱 I’m currently learning Astro, Tailwind CSS and React.js
 - 🤔 If you have an idea, let me know 🙄
 - 💬 Ask me about Javascript
