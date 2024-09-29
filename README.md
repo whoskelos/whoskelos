@@ -4,7 +4,7 @@
 
 About me:
 
-- 🔭 I’m currently working on TheGymVerse v.2
+- 🔭 I’m currently working on a Blog with Astro
 - 🌱 I’m currently learning Astro, Tailwind CSS and React.js
 - 🤔 If you have an idea, let me know 🙄
 - 💬 Ask me about Javascript
